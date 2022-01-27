@@ -1,4 +1,4 @@
-# morphological-hitormiss-and-hough-transform-line-estimates
+# morphological-hitormiss-&-laplacian-of-gaussians-edge-detection-&-hough-transform-line-estimates
 
 Exercise 3A – ( 4% ) – Morphological HitorMis
 
